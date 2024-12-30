@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+> [!Note]
+> chasey yan
+> 📫: melancholycy@gmail.com
+> 🔭: robotic
+> 😄: PVZ, 
 <!--
 **melancholyi/melancholyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
