@@ -1,7 +1,7 @@
 ## Hi there 👋
 > [!Note]
 > ⚡: chasey yan    
-> 📫: [GMail](melancholycy@gmail.com)    
+> 📫: melancholycy@gmail.com    
 > 🔭: robotic  
 > 😄: PVZ,   
 <!--
